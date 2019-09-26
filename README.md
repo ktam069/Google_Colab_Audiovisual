@@ -2,7 +2,7 @@
 
 This repo contains copies of Colab notebooks used for traing and testing for our Part IV project.
 
-The main repositories that the code being tested is listed below:
+Listed below are the main repositories that the code being tested is from:
 
 https://github.com/ktam069/Audio-visual_speech_separation_basic
 
