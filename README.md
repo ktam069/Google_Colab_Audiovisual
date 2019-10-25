@@ -10,14 +10,14 @@ https://github.com/ktam069/speech_separation_modified
 
 ## Folder Structure
 
-### colab_specs
-
-This folder contains the specifications of the CPU and GPU used for training and deployment.
-
 ### ablation_study
 
 This folder contains the notebooks (and code) used in the ablation study with different parts of the model removed.
 
+### colab_specs
+
+This folder contains the specifications of the CPU and GPU used for training and deployment.
+
 ### timing_architectures
 
-This folder contains the notebooks (and code) used in the timing of various system architectures.
+This folder contains the notebooks (and code) used in the timing of various system architectures for the local and hybrid implementations.
