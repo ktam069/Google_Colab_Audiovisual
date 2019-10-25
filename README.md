@@ -21,3 +21,7 @@ This folder contains the specifications of the CPU and GPU used for training and
 ### timing_architectures
 
 This folder contains the notebooks (and code) used in the timing of various system architectures for the local and hybrid implementations.
+
+### training_model	
+
+This folder contains the notebooks used in the training of some of the models.
